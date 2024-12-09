@@ -22,6 +22,6 @@ module.exports = {
   "OWNER_NUMBER": "94742274855",
   "AUTO_BIO": "true",
   "AUTO_TYPING": "false",
-  "AUTO_RECORDING": "false",
+  "AUTO_RECORDING": "true",
   "WARN_COUNT": "3",
 };
